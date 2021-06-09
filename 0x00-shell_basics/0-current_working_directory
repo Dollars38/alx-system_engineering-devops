@@ -1,2 +1,2 @@
 #!/bin/bash
-./0-current_working_directory
+echo "$(cd "$(0x00-shall_basics "$") pwd -p)/$(0-current_working_directory "$")'
