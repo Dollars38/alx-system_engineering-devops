@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "$(cd "$(0x00-shall_basics "$") pwd -p)/$(0-current_working_directory "$")'
+#!/bin/bash pwd
+chmod u+x 0-current_working _directory
